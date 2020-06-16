@@ -1,4 +1,5 @@
-name: example-environment
+  
+name: demo-environment
 channels:
   - conda-forge
 dependencies:
@@ -11,3 +12,6 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - netCDF4
+  - cartopy
+  - seaborn
