@@ -12,3 +12,4 @@ dependencies:
   - bokeh
   - dask
   - netCDF4
+  - seaborn
