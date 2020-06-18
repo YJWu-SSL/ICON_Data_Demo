@@ -7,11 +7,7 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - bisect
   - netCDF4
-  - cartopy
   - seaborn
