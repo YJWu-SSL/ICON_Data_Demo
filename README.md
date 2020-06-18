@@ -5,8 +5,8 @@
 
 
 ## Introduction of the science products 
-- Access full data products and data documents on the website: https://icon.ssl.berkeley.edu/Data
-- FTP site: ftp://icon-science.ssl.berkeley.edu/pub
+- Access full data products and data documents on the website: <https://icon.ssl.berkeley.edu/Data>
+- FTP site: <ftp://icon-science.ssl.berkeley.edu/pub>
 
 The Ionospheric Connection Explorer, or ICON, is a new NASA Explorer mission
 that will explore the boundary between Earth and space to understand the
