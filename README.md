@@ -1,15 +1,10 @@
-# Data_Demo
+# Ionospheric Connection Explorer (ICON) on Jupyter Notebook
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<br>To launch the interactive jupyter notebook, please click:
-<br>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YenJungWu/Data_Demo/master)
+- To launch the interactive jupyter notebook, please click:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YenJungWu/Data_Demo/master)
 
 
-## Ionospheric Connection Explorer (ICON) on Jupyter Notebook
-
-![caption](files/ICON_banner.png)
-<br>
-<br>
 ## Introduction of the science products 
 - Access full data products and data documents on the website: https://icon.ssl.berkeley.edu/Data
 - FTP site: ftp://icon-science.ssl.berkeley.edu/pub
