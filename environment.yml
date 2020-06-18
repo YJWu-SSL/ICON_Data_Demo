@@ -1,5 +1,4 @@
-  
-name: demo-environment
+name: example-environment
 channels:
   - conda-forge
 dependencies:
@@ -7,7 +6,10 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - dill
   - pandas
-  - bisect
+  - partd
+  - bokeh
+  - dask
   - netCDF4
   - seaborn
