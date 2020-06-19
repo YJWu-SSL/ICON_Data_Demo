@@ -1,6 +1,6 @@
 # Ionospheric Connection Explorer (ICON) on Jupyter Notebook
 
-- To launch the interactive jupyter notebook, please click:
+- To launch the interactive Jupyter Notebook, please click:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YenJungWu/Data_Demo/master)
 
 
