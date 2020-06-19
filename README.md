@@ -22,6 +22,5 @@ physical connection between our world and our space environment.
 ## Note:
 - Always check variable note and flags before using the data!
 - The NetCDF files in the example are only for demonstration. Please *DO NOT* use the example data for publication.
-- Any questions? yjwu@ssl.berkeley.edu
 
 
