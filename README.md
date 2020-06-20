@@ -22,5 +22,5 @@ physical connection between our world and our space environment.
 ## Note:
 - Always check variable note and flags before using the data!
 - The NetCDF files in the example are only for demonstration. Please *DO NOT* use the example data for publication.
-
-
+- Binder (the interactive notebook launcher) will automatically shut down user sessions that have more than 10 minutes of inactivity.
+- Any questions? yjwu@dn {dn=ssl.berkeley.edu}
