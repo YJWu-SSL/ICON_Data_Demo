@@ -11,15 +11,17 @@ The Ionospheric Connection Explorer, or ICON, is a new NASA Explorer mission
 that will explore the boundary between Earth and space to understand the
 physical connection between our world and our space environment. 
 <br>
+Data products included in this demo:
 - L2.2 MIGHTI--Neutral Vector Winds -- Zonal Wind & Meridional Wind 
 - L2.3 MIGHTI--Neutral Temperature
-- L2.4 FUV--Column O/N2
-- L2.5 FUV--Nighttime O+ Density 
-- L2.6 EUV--Daytime O+ Density
+- L2.4 FUV--Column O/$N_{2}$
+- L2.5 FUV--Nighttime $O^{+}$ Density 
+- L2.6 EUV--Daytime $O^{+}$ Density
 - L2.7 IVM--Ion Drift/Ion Densities/Ion Temperature 
 
-## Note:
-- Always check variable note and flags before using the data!
-- The NetCDF files in the example are only for demonstration. Please *DO NOT* use the example data for publication.
-- Binder (the interactive notebook launcher) will automatically shut down user sessions that have more than 10 minutes of inactivity.
+### Note:
+- Please read variable notes and quality flags for caveats, limitations, and best practices.
+- The NetCDF files used here are only for demonstration. Please do not use the example data for publication - use official data sources instead.
+- Binder (the interactive notebook launcher) is useful for preliminary explorations of the dataset. It will automatically shut down user sessions that have more than 10 minutes of inactivity.
 - Any questions? yjwu@dn {dn=ssl.berkeley.edu}
+<br>
