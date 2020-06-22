@@ -1,8 +1,7 @@
 # Ionospheric Connection Explorer (ICON) on Jupyter Notebook
 
 - To launch the interactive Jupyter Notebook, please click:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YenJungWu/Data_Demo/master)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YJWu-SSL/ICON_Data_Demo/master)
 
 ## Introduction of the science products 
 - Access full data products and data documents on the website: <https://icon.ssl.berkeley.edu/Data>
