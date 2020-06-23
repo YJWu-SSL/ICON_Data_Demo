@@ -14,10 +14,10 @@ physical connection between our world and our space environment.
 Data products included in this demo:
 - L2.2 MIGHTI--Neutral Vector Winds -- Zonal Wind & Meridional Wind 
 - L2.3 MIGHTI--Neutral Temperature
-- L2.4 FUV--Column O/$N_{2}$
-- L2.5 FUV--Nighttime $O^{+}$ Density 
-- L2.6 EUV--Daytime $O^{+}$ Density
-- L2.7 IVM--Ion Drift/Ion Densities/Ion Temperature 
+- L2.4 FUV--Column O/N2
+- L2.5 FUV--Nighttime O+ Density 
+- L2.6 EUV--Daytime O+ Density
+- L2.7 IVM--Ion Drift/ Ion Densities/ Ion Temperature 
 
 ### Note:
 - Please read variable notes and quality flags for caveats, limitations, and best practices.
