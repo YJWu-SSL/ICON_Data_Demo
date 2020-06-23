@@ -15,9 +15,9 @@ LEVEL.2 Data products:
 - L2.1 MIGHTI -- Line-of-Sight Winds 
 - L2.2 MIGHTI -- Neutral Vector Winds -- Zonal Wind & Meridional Wind 
 - L2.3 MIGHTI-A/B* -- Neutral Temperature
-- L2.4 FUV--Column O/$N_{2}$
-- L2.5 FUV--Nighttime $O^{+}$ Density 
-- L2.6 EUV--Daytime $O^{+}$ Density
+- L2.4 FUV--Column O/N2
+- L2.5 FUV--Nighttime O+ Density 
+- L2.6 EUV--Daytime O+ Density
 - L2.7 IVM-A/B* -- Ion Drift/Ion Densities/Ion Temperature 
 - A/B* are two identical instruments pointing to different directions.
 
